@@ -7,7 +7,7 @@ for name in name:
 
 print (leng)
 for x in name:
-    print(name[0][leng])
+    print(name[leng-1])
     leng-=1
     
    
