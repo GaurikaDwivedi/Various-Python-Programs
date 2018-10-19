@@ -1,8 +1,6 @@
-name = input("enter name to be reverse with spaces: ")
+name = input("enter name to be reversed with spaces: ")
 
 name = name.split(',')
-
-
 
 for name in name:
     leng = len(name) 
